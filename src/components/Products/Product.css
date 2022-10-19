@@ -1,0 +1,32 @@
+
+.product{
+    border: 1px solid khaki;
+    position: relative;
+}
+.shows-img {
+    width:286px;
+    height: 286px;
+    text-align: center;
+}
+.product-info{
+    padding-left: 12px;
+    margin-bottom: 45px;
+}
+.product-info h4{
+    margin-top: 0px;
+}
+.product-info p{
+    margin: 10px 0px;
+}
+.btn{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-size:20px ;
+    font-weight: 400;
+    color: #fff;
+    background-color: #ffbc58;
+    padding: 7px 0px;
+    display: block;
+    border: none;
+}
